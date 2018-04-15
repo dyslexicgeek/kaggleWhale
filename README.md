@@ -9,3 +9,5 @@ and classify them in to a certain type of whale.
 
 Feel free to run, duplicate and improve this code 
 without any copyright bindings!
+
+Data location - https://www.kaggle.com/c/whale-categorization-playground/data
